@@ -3,7 +3,7 @@
 **Introduction**:
 Bacterial Isolates Explorer is an online tool that allows you to investigate numerous bacterial isolates. The program provides details about the bacterial strains, such as their origin, isolation, source, and antibiotic susceptibility testing results.
 
-The project is made up of HTML, Python, and CSS that serves as the application's front-end interface. The data is saved in CSV format and retrieved with Python. The project is hosted on GitHub and is accessible via a web browser.
+The project is made up of HTML, Python, and CSS that serves as the application's front-end interface. The data is saved in CSV format and retrieved with Python that helps in visualization. The project is hosted on GitHub and is accessible via a web browser.
 
 **Files**:
 •	Bifidobacterium_bifidum.html
