@@ -6,14 +6,14 @@ Bacterial Isolates Explorer is an online tool that allows you to investigate num
 The project is made up of HTML, Python, and CSS that serves as the application's front-end interface. The data is saved in CSV format and retrieved with Python that helps in visualization. The project is hosted on GitHub and is accessible via a web browser.
 
 **Files**:
-•	Bifidobacterium_bifidum.html
-•	Bifidobacterium_infantis.html
-•	Lactobacillus_acidophilus.html
-•	Lactobacillus_plantarum.html
-•	Lactobacillus_reuteri.html
-•	Lactobacillus_rhamnosus.html
-•	Lactococcus_lactis.html
-•	Streptococcus_thermophilus.html
+-	Bifidobacterium_bifidum.html
+-	Bifidobacterium_infantis.html
+-	Lactobacillus_acidophilus.html
+-	Lactobacillus_plantarum.html
+-	Lactobacillus_reuteri.html
+-	Lactobacillus_rhamnosus.html
+-	Lactococcus_lactis.html
+-	Streptococcus_thermophilus.html
 
 **Installation**:
 Clone the GitHub repository and open the navya.html file in a web browser to utilize the application. The program is written in HTML, CSS, and Python and requires no extra dependencies or installations of the software.
