@@ -16,10 +16,10 @@ The project is made up of HTML, Python, and CSS that serves as the application's
 -	Streptococcus_thermophilus.html
 
 **Installation**:
-Clone the GitHub repository and open the navya.html file in a web browser to utilize the application. The program is written in HTML, CSS, and Python and requires no extra dependencies or installations of the software.
+Clone the GitHub repository and open the index.html file in a web browser to utilize the application. The program is written in HTML, CSS, and Python and requires no extra dependencies or installations of the software.
 
 **Usage**:
-After opening the application in the web browser we can select a bacterial strain from the popup menu on the screen. This will give detailed information about the bacterial strain, including its origin, isolation method, and antibiotic susceptibility. The viewers can also see the images of the strain and information about the product in which it is found.
+After opening the application in the web browser we can select a bacterial strain from the popup menu on the screen. This will give detailed information about the bacterial strain, including its strain number, product, origin, isolation method, and antibiotic susceptibility. The viewers can also see the images of the strain and information about the product in which it is found.
 
 **Acknowledgements**:
 This project was created as part of course curriculum for the Bio-Medical Informatics program at the University of Nebraska Omaha. Special thanks to my instructor Dr. Kate Cooper for her support and guidance throughout the course.
