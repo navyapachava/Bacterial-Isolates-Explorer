@@ -21,7 +21,7 @@ Clone the GitHub repository and open the navya.html file in a web browser to uti
 **Usage**:
 After opening the application in the web browser we can select a bacterial strain from the popup menu on the screen. This will give detailed information about the bacterial strain, including its origin, isolation method, and antibiotic susceptibility. The viewers can also see the images of the strain and information about the product in which it is found.
 
-**Acknowledgement**:
+**Acknowledgements**:
 This project was created as part of a  curriculum project for the Bio-Medical Informatics program at the University of Nebraska Omaha. Special thanks to my instructor for her support and guidance throughout the course.
 
 
